@@ -1,0 +1,14 @@
+.form-container{
+    max-height: 80vh;
+    background-color: black;
+    color: white;
+}
+
+.contact-form{
+    background-color: black;
+    border: 2px solid #0275d8;
+    border-radius: 5px;
+    padding: 3rem 5rem;
+    color: white;
+    box-shadow:0px 0px 8px 10px #0275d8;
+}
